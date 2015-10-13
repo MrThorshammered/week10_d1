@@ -1,0 +1,26 @@
+body{
+	background-color: hotpink;
+}
+table {
+  margin: 0 auto;
+  border-radius:10px;
+}
+h1{
+	text-align: center;
+}
+
+.board{
+	width: 1000px;
+	margin-left: 15%;
+
+}
+.cell {
+	display: inline-block;
+	float: left;
+  border: 1px solid black;
+  width: 30%;
+  height: 200px;
+  text-align: center;
+  font-size: 8em;
+}
+
